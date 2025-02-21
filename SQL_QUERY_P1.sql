@@ -1,4 +1,4 @@
--- SQL RETAIL SALES ANALYSISN--
+-- SQL RETAIL SALES ANALYSIS--
 CREATE DATABASE sql_project1;
 -- create table--
 DROP TABLE IF exists Retail_Sales;
